@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula 04_4_Pilares/1.0.0": {
+        "runtime": {
+          "Aula 04_4_Pilares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula 04_4_Pilares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
