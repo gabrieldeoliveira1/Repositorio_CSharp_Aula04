@@ -3,7 +3,6 @@ C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula
 C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\bin\Debug\net6.0-windows\Aula 04_4_Pilares.runtimeconfig.json
 C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\bin\Debug\net6.0-windows\Aula 04_4_Pilares.dll
 C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\bin\Debug\net6.0-windows\Aula 04_4_Pilares.pdb
-C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Form1.resources
 C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula 04_4_Pilares.csproj.GenerateResource.cache
 C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula 04_4_Pilares.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula 04_4_Pilares.AssemblyInfoInputs.cache
@@ -15,3 +14,8 @@ C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula
 C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula 04_4_Pilares.pdb
 C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula 04_4_Pilares.genruntimeconfig.cache
 C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\ref\Aula 04_4_Pilares.dll
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Ex1_code.resources
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Ex2_Retangulo.resources
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Ex3_code.resources
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Ex4_code.resources
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Ex5_code.resources
