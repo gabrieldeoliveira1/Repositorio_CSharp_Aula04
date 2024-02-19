@@ -24,7 +24,7 @@ namespace Aula_04_4_Pilares
             ContaBancaria_Ex3 cb = new ContaBancaria_Ex3();
             cb.saldo = 30;
             cb.limite = 50;
-            cb.saque = 5;
+            cb.saque = 80;
             cb.deposit = 6;
             MessageBox.Show("O saldo, o limite, o saque e depósito são de : " + cb.saldo.ToString() + ", " + cb.limite.ToString() + ", " + cb.saque.ToString() + ", " + cb.deposit.ToString());
             if (cb.saldo > cb.limite) {
@@ -33,6 +33,11 @@ namespace Aula_04_4_Pilares
             {
                 //recebe o metodo de acesso a variavel apresentação
                 MessageBox.Show("O novo saldo é de: = " + cb.Newsaldos());
+            }
+
+            if (cb.saque > cb.limite)
+            {
+                MessageBox.Show("Você quer o que parça, vc está tentando tirar mais dinheiro do que você tem. Vai fazer um empréstimo meu consagrado.");
             }
         }
     }

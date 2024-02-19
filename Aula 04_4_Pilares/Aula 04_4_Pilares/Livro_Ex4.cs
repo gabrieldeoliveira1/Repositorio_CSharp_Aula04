@@ -23,6 +23,7 @@ namespace Aula_04_4_Pilares
             edicao = 0; 
 
 
+
         }
 
         //metodo publico retorno do texto da placa

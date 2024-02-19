@@ -1,6 +1,6 @@
 ﻿namespace Aula_04_4_Pilares
 {
-    partial class Ex4_code
+    partial class Ex6_code
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,14 @@
         {
             SuspendLayout();
             // 
-            // Ex4_code
+            // Ex6_code
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Name = "Ex4_code";
-            Text = "Livro_Ex4";
-            Load += Ex4_code_Load;
+            Name = "Ex6_code";
+            Text = "Ex6_code";
+            Load += Ex6_code_Load;
             ResumeLayout(false);
         }
 

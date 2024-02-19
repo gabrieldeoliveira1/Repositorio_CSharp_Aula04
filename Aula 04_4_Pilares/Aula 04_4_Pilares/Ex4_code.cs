@@ -23,6 +23,11 @@ namespace Aula_04_4_Pilares
             //recebe o metodo de acesso a variavel apresentação
             MessageBox.Show("Sobre o livro: = " + lv.edicoes());
         }
+
+        private void Ex4_code_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
