@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula 04_4_Pilares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+035556f80abef93f8be8b81715740a3942838c9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6c5ff139415ec18bd9232fcbf034b28d7b273e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula 04_4_Pilares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula 04_4_Pilares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

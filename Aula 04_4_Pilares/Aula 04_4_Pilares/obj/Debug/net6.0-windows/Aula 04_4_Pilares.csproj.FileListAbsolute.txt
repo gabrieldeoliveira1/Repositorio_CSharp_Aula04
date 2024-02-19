@@ -42,3 +42,8 @@ C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_CSharp_Aula04\Aula 04
 C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\ref\Aula 04_4_Pilares.dll
 C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Ex6_code.resources
 C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Ex7_code.resources
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Ex6_code.resources
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Ex7_code.resources
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Ex8_code.resources
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Ex9_code.resources
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp_Aula04\Aula 04_4_Pilares\Aula 04_4_Pilares\obj\Debug\net6.0-windows\Aula_04_4_Pilares.Ex_10.resources

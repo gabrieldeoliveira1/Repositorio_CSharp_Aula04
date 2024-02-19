@@ -28,7 +28,7 @@ namespace Aula_04_4_Pilares
             }
             for(int i = 0; i < car1.Length; i++)
             {
-                desc[i] = car[i] + ", Modelo: " + car1[i];
+                desc[i] = car[i] + "\n\nModelo: " + car1[i];
                 
 
             }
