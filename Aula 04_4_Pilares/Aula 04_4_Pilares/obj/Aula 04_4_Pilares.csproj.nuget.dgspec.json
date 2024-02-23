@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp_Aula04\\Aula 04_4_Pilares\\Aula 04_4_Pilares\\Aula 04_4_Pilares.csproj": {}
+    "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp_Lista02\\Aula 04_4_Pilares\\Aula 04_4_Pilares\\Aula 04_4_Pilares.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp_Aula04\\Aula 04_4_Pilares\\Aula 04_4_Pilares\\Aula 04_4_Pilares.csproj": {
+    "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp_Lista02\\Aula 04_4_Pilares\\Aula 04_4_Pilares\\Aula 04_4_Pilares.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp_Aula04\\Aula 04_4_Pilares\\Aula 04_4_Pilares\\Aula 04_4_Pilares.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp_Lista02\\Aula 04_4_Pilares\\Aula 04_4_Pilares\\Aula 04_4_Pilares.csproj",
         "projectName": "Aula 04_4_Pilares",
-        "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp_Aula04\\Aula 04_4_Pilares\\Aula 04_4_Pilares\\Aula 04_4_Pilares.csproj",
+        "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp_Lista02\\Aula 04_4_Pilares\\Aula 04_4_Pilares\\Aula 04_4_Pilares.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp_Aula04\\Aula 04_4_Pilares\\Aula 04_4_Pilares\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp_Lista02\\Aula 04_4_Pilares\\Aula 04_4_Pilares\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

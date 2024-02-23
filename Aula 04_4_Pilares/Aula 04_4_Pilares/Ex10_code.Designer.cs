@@ -1,6 +1,6 @@
 ﻿namespace Aula_04_4_Pilares
 {
-    partial class Ex_10
+    partial class Ex10_code
     {
         /// <summary>
         /// Required designer variable.

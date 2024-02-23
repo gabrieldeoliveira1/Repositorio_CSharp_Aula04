@@ -28,7 +28,7 @@
     <Compile Update="Ex9_code.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Ex_10.cs">
+    <Compile Update="Ex10_code.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
